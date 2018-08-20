@@ -11,6 +11,8 @@ contact: knielbo@sdu.dk
 
 ## Schedule
 
+<center>
+
 | Duration | Content                         |
 |-------|------------------------------------|
 |       | Setup                              |
@@ -26,6 +28,7 @@ contact: knielbo@sdu.dk
 | 05:20 | Command-Line Programs              |
 | 05:50 | Finish                             |
 
+<center/>
 
 ## SUDOs
 *Create tutorial environment*
