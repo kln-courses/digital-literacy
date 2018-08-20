@@ -1,4 +1,15 @@
-# digital-literacy
+# digital-literacy @ Aarhus University
+
+```yaml
+title: Digital Literacy - Programming in Python
+place: Jens Chr. Skous Vej 4, Building 1483, 3rd floor, DK- 8000 Aarhus C.
+time: August 20, 2018.
+instructor: Kristoffer L. Nielbo  (KLN)
+contact: knielbo@sdu.dk
+```
+
+
+## Schedule
 
 | Duration | Content                         |
 |-------|------------------------------------|
@@ -16,6 +27,7 @@
 | 05:50 | Finish                             |
 
 
+## SUDOs
 *Create tutorial environment*
 
 ```bash
